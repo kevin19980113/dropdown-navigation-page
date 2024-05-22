@@ -14,7 +14,7 @@ export default function Header() {
   return (
     <>
       <header className="header">
-        <a href="/dropdown-navigation-page" className="logo">
+        <a href="#" className="logo">
           <img src={logoImg} alt="logo" />
         </a>
 
